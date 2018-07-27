@@ -1,5 +1,5 @@
 # Mod Mail for Discord
-This is an open source discord bot made by kyb3r and improved upon suggestions by the users!
+This is an open source discord bot made by kyb3r and improved upon suggestions by the users! This is not the original build, this is a fork
 
 ## Hosting on Heroku
 ### What is Heroku?
